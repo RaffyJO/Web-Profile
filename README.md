@@ -1,5 +1,5 @@
 # Web-Profile
-Create a website profile using HTML and CSS.
+* Create a website profile using HTML and CSS.
 
 ![Cover web profile 1](https://github.com/RaffyJO/Web-Profile/assets/116251880/70c43857-8a06-4838-ba83-7a8944c43909)
 
